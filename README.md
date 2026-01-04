@@ -1,4 +1,4 @@
-\# TDM-PCM-System-Development-in-Proteus
+# TDM-PCM-System-Development-in-Proteus
 
 
 
@@ -6,41 +6,7 @@
 
 
 
-This project presents the design and simulation of a \*\*Time Division Multiplexing–Pulse Code Modulation (TDM-PCM)\*\* system. It was developed as a sessional course project for \*\*EEE 310 – Communication Laboratory\*\* at the \*\*Bangladesh University of Engineering and Technology (BUET)\*\*.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\###### \*\*Key Features\*\*
-
-
-
-
-
-
-
-\* \*\*Multiple Signal Support:\*\* Accepts multiple analog input signals simultaneously.
-
-\* \*\*TDM Implementation:\*\* Combines multiple signals into a single channel using time-division multiplexing.
-
-\* \*\*PCM Encoding:\*\* Performs sampling, quantization, and encoding of the multiplexed signal.
-
-\* \*\*Digital Transmission:\*\* Transmits encoded digital data through a shared channel.
-
-\* \*\*Accurate Reconstruction:\*\* Decodes the received signal back to analog form.
-
-\* \*\*Channel Separation:\*\* Successfully demultiplexes and retrieves individual signals at the receiver.
+This project presents the design and simulation of a **Time Division Multiplexing–Pulse Code Modulation (TDM-PCM)** system. It was developed as a sessional course project for **EEE 310 – Communication Laboratory** at the **Bangladesh University of Engineering and Technology (BUET)**.
 
 
 
@@ -52,11 +18,45 @@ This project presents the design and simulation of a \*\*Time Division Multiplex
 
 
 
-\###### \*\*System Overview\*\*
 
 
 
-!\[block\_diagram](Images/block\_diagram.png)
+
+###### **Key Features**
+
+
+
+
+
+
+
+* **Multiple Signal Support:** Accepts multiple analog input signals simultaneously.
+
+* **TDM Implementation:** Combines multiple signals into a single channel using time-division multiplexing.
+
+* **PCM Encoding:** Performs sampling, quantization, and encoding of the multiplexed signal.
+
+* **Digital Transmission:** Transmits encoded digital data through a shared channel.
+
+* **Accurate Reconstruction:** Decodes the received signal back to analog form.
+
+* **Channel Separation:** Successfully demultiplexes and retrieves individual signals at the receiver.
+
+
+
+
+
+
+
+
+
+
+
+###### **System Overview**
+
+
+
+![block\_diagram](Images/block\_diagram.png)
 
 
 
@@ -98,43 +98,23 @@ Simulation Platform: Proteus
 
 
 
-\###### \*\*Simulation Results\*\*
+###### **Simulation Results**
 
 
 
-!\[results](Images/results.png)
+![results](Images/results.png)
 
 
 
-\* Multiplexed TDM signal observed at transmitter output
+* Multiplexed TDM signal observed at transmitter output
 
-\* PCM-encoded digital bitstream transmission
+* PCM-encoded digital bitstream transmission
 
-\* Accurate analog signal reconstruction at receiver
+* Accurate analog signal reconstruction at receiver
 
-\* Successful separation of original input channels
+* Successful separation of original input channels
 
-\* Minor attenuation handled using low-pass filtering
-
-
-
-
-
-
-
-
-
-
-
-\###### \*\*Project Impact\*\*
-
-
-
-
-
-
-
-This project demonstrates the fundamental principles of \*\*digital communication systems\*\*, including multiplexing, PCM encoding/decoding, and signal reconstruction. It provides a strong practical foundation for understanding bandwidth efficiency and multi-user communication systems.
+* Minor attenuation handled using low-pass filtering
 
 
 
@@ -146,7 +126,27 @@ This project demonstrates the fundamental principles of \*\*digital communicatio
 
 
 
-\###### \*\*Project Status\*\*
+###### **Project Impact**
+
+
+
+
+
+
+
+This project demonstrates the fundamental principles of **digital communication systems**, including multiplexing, PCM encoding/decoding, and signal reconstruction. It provides a strong practical foundation for understanding bandwidth efficiency and multi-user communication systems.
+
+
+
+
+
+
+
+
+
+
+
+###### **Project Status**
 
 
 
@@ -170,7 +170,7 @@ This project demonstrates the fundamental principles of \*\*digital communicatio
 
 
 
-\###### \*\*Contributors\*\*
+###### **Contributors**
 
 
 
@@ -178,7 +178,7 @@ This project demonstrates the fundamental principles of \*\*digital communicatio
 
 
 
-Sanath Kumar Das (1706149), Md. Rokonujjaman (1706150), Md. Tajbid Zaman Rhythm (1706152), \*\*Joy Saha (1706189)\*\*  
+Sanath Kumar Das (1706149), Md. Rokonujjaman (1706150), Md. Tajbid Zaman Rhythm (1706152), **Joy Saha (1706189)**  
 
 
 
@@ -194,7 +194,7 @@ Department of Electrical \& Electronic Engineering, Bangladesh University of Eng
 
 
 
-\###### \*\*License\*\*
+###### **License**
 
 
 
