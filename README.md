@@ -88,9 +88,9 @@ Filtering: Two-stage RC Low Pass Filter
 
 Simulation Platform: Proteus
 
+**Full Circuit in Proteus**
 
-
-
+![full\_circuit](Images/full\_circuit.png)
 
 
 
@@ -102,7 +102,7 @@ Simulation Platform: Proteus
 
 
 
-![results](Images/results.png)
+![results](Images/inout.png)
 
 
 
